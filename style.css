@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color: rgb(6, 12, 39);
+    background-color: black;
 }
 
 header{
@@ -138,8 +138,4 @@ section {
     position: absolute;
     right: 666px;
     top: 1050px;   
-}
-
-iframe {
-
 }
