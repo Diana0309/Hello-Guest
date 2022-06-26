@@ -10,6 +10,7 @@ header{
 
 .mnd{
     width: 350px;
+    background-color: black;
 }
 
 section {
@@ -63,6 +64,7 @@ footer {
 
 .img_inside{
     margin: 0px 50px 0px 50px;
+    border: 15px double black;
 }
 
 p {
@@ -127,10 +129,6 @@ section {
     margin-top: 50px;
 }
 
-
-.tel {
-    width: 280px;
-    position: absolute;
-    right: 666px;
-    top: 1050px;   
+.info {
+    background-color: black;
 }
